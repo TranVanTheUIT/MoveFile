@@ -12,8 +12,8 @@ I'll create a Python script that processes your CSV file, extracts the required 
 
 Data directory will be like this: the data file will placed in data/origin folder
 ├───data
-│   ├───origin
-│   └───processed
+│   └───origin
+├───output
 └───processed
 
 ## How to Use
