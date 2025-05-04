@@ -9,7 +9,12 @@ I'll create a Python script that processes your CSV file, extracts the required 
 - Default output is 1000 rows per file
 - Saves output files in a "processed" directory
 
-Here's the complete script:
+
+Data directory will be like this: the data file will placed in data/origin folder
+├───data
+│   ├───origin
+│   └───processed
+└───processed
 
 ## How to Use
 
